@@ -1,7 +1,7 @@
 # SMPC Library
 <img src="https://img.shields.io/badge/status-research%20prototype-green.svg" />
 
-This project is an open-source Java library that implements the Sharemind protocol suite. Specifically, it includes two main secure multiparty computation (SMPC) protocols over secret shared integers: the `Equality` and `Greater Than or Equal To protocols. Both protocols are secure against a passive adversary.
+This project is an open-source Java library that implements the Sharemind protocol suite. Specifically, it includes two main secure multiparty computation (SMPC) protocols over secret shared integers: the `Equality` and `Greater Than or Equal To` protocols. Both protocols are secure against a passive adversary.
 
 The library provides a high-level API that abstracts the underlying protocol implementation and party communication. This makes it easy to use for any project that requires SMPC protocol for data processing.
 
